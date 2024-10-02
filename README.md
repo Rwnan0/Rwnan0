@@ -3,7 +3,6 @@
 Meu nome é Renan Correia 
 
 - Estou estudando na [Alura](https://www.alura.com.br)
-- Estou estudando em periodo integral
 - Estou aprendendo a linguagem do JavaScript
 - Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
