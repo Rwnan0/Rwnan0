@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas Vindas ao meu perfil 😎
 
-<!--
-**Rwnan0/Rwnan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Renan Correia 
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou estudando em periodo integral
+- Estou aprendendo a linguagem do JavaScript
+- Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você entra em contato comigo 📫
+
+  rcmoraessp@gmail.com
+
+  sem perfil/conta nas redes sociais
+
+  ![](https://media.tenor.com/agWRnwIHk0MAAAAi/%D0%B6%D1%83%D1%82%D0%BA%D0%B8%D0%B9%D0%BC%D0%B5%D1%81%D1%8F%D1%86-%D1%81%D0%BA%D0%B8%D0%B4%D0%B8%D0%BF%D0%B0%D0%BC%D0%BF.gif)
